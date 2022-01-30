@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/number"
+    android:layout_height="match_parent"
+    tools:context=".TampilanangkaActivity2">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="340dp"
+        android:layout_height="115dp"
+        android:layout_marginTop="128dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.575"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:id="@+id/bt_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#00FFFFFF"
+            android:onClick="one"
+            app:srcCompat="@drawable/bt_one"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/bt_two"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="two"
+            android:layout_weight="1"
+            android:backgroundTint="#00FFFFFF"
+            app:srcCompat="@drawable/bt_dua"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/bt_three"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="three"
+            android:layout_weight="1"
+            android:backgroundTint="#00FFFFFF"
+            app:srcCompat="@drawable/bt_three"
+            tools:ignore="SpeakableTextPresentCheck" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="340dp"
+        android:layout_height="115dp"
+        android:layout_marginTop="4dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.578"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout">
+
+        <ImageButton
+            android:id="@+id/bt_four"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="four"
+            android:layout_weight="1"
+            android:backgroundTint="#00FFFFFF"
+            app:srcCompat="@drawable/bt_four"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/bt_five"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="five"
+            android:layout_weight="1"
+            android:backgroundTint="#00FFFFFF"
+            app:srcCompat="@drawable/bt_five"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/bt_six"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="six"
+            android:layout_weight="1"
+            android:backgroundTint="#00FFFFFF"
+            app:srcCompat="@drawable/bt_six"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="343dp"
+        android:layout_height="118dp"
+        android:layout_marginTop="4dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.555"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2">
+
+        <ImageButton
+            android:id="@+id/bt_seven"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#00FFFFFF"
+            android:onClick="seven"
+            app:srcCompat="@drawable/bt_seven"
+            tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/bt_eight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#00FFFFFF"
+            android:onClick="eight"
+            app:srcCompat="@drawable/bt_eight"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/bt_nine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#00FFFFFF"
+            android:onClick="nine"
+            app:srcCompat="@drawable/bt_nine"
+            tools:ignore="SpeakableTextPresentCheck" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/bt_home"
+        android:layout_width="66dp"
+        android:layout_height="58dp"
+        android:onClick="home"
+        android:backgroundTint="#00FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.046"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.029"
+        app:srcCompat="@drawable/bt_home"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <LinearLayout
+        android:layout_width="352dp"
+        android:layout_height="118dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.597"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout3"
+        app:layout_constraintVertical_bias="0.0">
+
+        <ImageButton
+            android:id="@+id/bt_zero"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="zero"
+            android:layout_weight="1"
+            android:backgroundTint="#00FFFFFF"
+            app:srcCompat="@drawable/bt_zero"
+            tools:ignore="SpeakableTextPresentCheck" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

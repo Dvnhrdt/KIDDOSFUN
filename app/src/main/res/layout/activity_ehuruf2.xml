@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_e"
+    tools:context=".EhurufActivity2">
+    <LinearLayout
+        android:id="@+id/linearLayout5"
+        android:layout_width="414dp"
+        android:layout_height="74dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:id="@+id/imageButton34"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="back"
+
+            android:backgroundTint="#00FFFFFF"
+            app:srcCompat="@drawable/bt_back" />
+
+        <ImageButton
+            android:id="@+id/imageButton35"
+            android:layout_width="wrap_content"
+            android:onClick="home"
+
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#00FFFFFF"
+            app:srcCompat="@drawable/bt_home1" />
+
+        <ImageButton
+            android:id="@+id/imageButton36"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="next"
+            android:layout_weight="1"
+            android:backgroundTint="#00FFFFFF"
+            app:srcCompat="@drawable/bt_nextslide" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/imageButton37"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="voiceover"
+        android:backgroundTint="#00FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.89"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout5"
+        app:layout_constraintVertical_bias="0.437"
+        app:srcCompat="@drawable/bt_voice" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kiddosfun">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KIDDOSFUN">
+        <activity
+            android:name=".GameSalahActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GameBenarActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GametekiActivity2"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".GameBebekActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GameKatakActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GameGajahActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GameAyamActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GameSingaActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GameMonyetActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GameHarimauActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GameKucingActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".ZhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".YhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".XhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".WhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".VhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".UhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".ThurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".ShurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".RhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".QhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".PhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".OhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".NhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".LhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".KhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".JhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".IhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".HhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".FhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".EhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".DhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".ChurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".BhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".TelingaActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".TanganActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".ParuActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".OtakActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MulutActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".LidahActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".LambungActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".KakiActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".HatiActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GigiActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".HidungActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MataActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".TampilanAnggotaTubuhActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".AhurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".TampilanHurufActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".UlarActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".SingaActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".SapiActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MonyetActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".JangkrikActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".HarimauActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GajahActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".BurungHantuActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".BebekActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".KatakActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".KucingActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".AyamActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".TampilanHewanActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".NumberZeroActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".NumberNineActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".NumberEightActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".NumberSevenActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".NumberSixActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".NumberFiveActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".NumberFourActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".NumberThreeActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".NumberTwoActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".NumberOneActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".TampilanangkaActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GamesActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".KategoriActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".GenderActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".TampilannamaActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

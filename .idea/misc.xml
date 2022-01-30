@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KIDDOSFUNFIX/KIDDOSFUN/app/src/main/res/layout/activity_gameteki2.xml" value="0.196875" />
+        <entry key="..\:/KIDDOSFUNFIX/KIDDOSFUN/app/src/main/res/layout/activity_number_zero2.xml" value="0.17222222222222222" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_ahuruf2.xml" value="0.10326086956521739" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_burung_hantu2.xml" value="0.196875" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_game_ayam2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_game_bebek2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_game_benar2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_game_gajah2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_game_harimau2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_game_katak2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_game_kucing2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_game_monyet2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_game_salah2.xml" value="0.18125" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_game_singa2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_game_teka2.xml" value="0.196875" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_games2.xml" value="0.5" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_gameteki2.xml" value="0.196875" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_gender2.xml" value="0.18125" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_hati2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_kategori2.xml" value="0.25" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_lambung2.xml" value="0.28940217391304346" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_lidah2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_main.xml" value="0.196875" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_mata2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_mulut2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_otak2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_paru2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_tampilan_anggota_tubuh2.xml" value="0.33" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_tampilan_huruf2.xml" value="0.22" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_tampilanangka2.xml" value="0.196875" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_tampilannama2.xml" value="0.18125" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_tangan2.xml" value="0.1" />
+        <entry key="..\:/dovan/KIDDOSFUN/app/src/main/res/layout/activity_telinga2.xml" value="0.36666666666666664" />
+        <entry key="app/src/main/res/layout/activity_ahuruf2.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/activity_mata2.xml" value="0.22327898550724637" />
+        <entry key="app/src/main/res/layout/activity_tampilan_huruf2.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
